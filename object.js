@@ -1,3 +1,4 @@
 import { Person , Student , Course} from './index.js'
 
-let student = new Student('John', 'Doe', '12345');
+let student = new Student('John', 'Doe', 12345);
+console.log(student)
